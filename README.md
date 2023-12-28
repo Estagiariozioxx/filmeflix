@@ -12,6 +12,14 @@
   <img src="1.png" alt="Screenshot do App" width="600">
 </p>
 
+<p align="center">
+  Confira o projeto!
+</p>
+
+---
+
+[Visite o Filme Flix](https://estagiariozioxx.github.io/filmeflix/)
+
 
 
 ## 🚀 Funcionalidades
