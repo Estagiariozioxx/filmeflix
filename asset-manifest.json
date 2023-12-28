@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/filmeflix/static/css/main.01697b12.css",
+    "main.js": "/filmeflix/static/js/main.2d45947b.js",
+    "index.html": "/filmeflix/index.html",
+    "main.01697b12.css.map": "/filmeflix/static/css/main.01697b12.css.map",
+    "main.2d45947b.js.map": "/filmeflix/static/js/main.2d45947b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01697b12.css",
+    "static/js/main.2d45947b.js"
+  ]
+}
