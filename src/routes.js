@@ -15,7 +15,7 @@ function RoutesApp(){
             <Route path="/filme/:id" element={<Filme/>}/>
             <Route path="/favoritos" element={<Favoritos/>}/>
 
-            <Route path="*" element={<Erro/>}/>
+            <Route path="*" element={<Home/>}/>
         </Routes>
         </BrowserRouter>
     )
